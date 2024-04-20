@@ -21,7 +21,7 @@ pipeline {
                 }
             }
             steps {
-                echo "testing your app" 
+                echo "testing your app1" 
             }
         }
         
