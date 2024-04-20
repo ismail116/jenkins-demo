@@ -10,7 +10,7 @@ pipeline {
             steps {
                 echo "checking your code"
                 echo "$BUILD_ID"
-                echo "$BRANCH_NAME"   
+                
                 
                
             }
